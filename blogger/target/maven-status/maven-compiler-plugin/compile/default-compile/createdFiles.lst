@@ -1,0 +1,6 @@
+com/repo/RepoUser.class
+com/entities/User.class
+com/springtest/controller/BloggerApplicationController.class
+com/springtest/BloggerApplication.class
+com/service/UserService.class
+com/manager/ManagerClass.class

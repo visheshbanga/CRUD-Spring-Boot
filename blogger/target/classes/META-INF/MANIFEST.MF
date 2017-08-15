@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: blogger
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vishesh
+Implementation-Vendor-Id: com.blogger
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ database/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
